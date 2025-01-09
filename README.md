@@ -32,3 +32,8 @@ The Vrinda Store dataset captures transactional, customer, and product informati
 #### B2B Indicator:
 
 - B2B: A Boolean field indicating whether the order was business-to-business (B2B).
+## Images of the dashboard
+- Image 1
+![exceld1](https://github.com/user-attachments/assets/343db0cb-672b-4238-bf81-9baaa9790ea3)
+- Image 2
+![exceld2](https://github.com/user-attachments/assets/c92fa12d-2501-4e18-af9b-c6396b2a75a5)
