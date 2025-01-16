@@ -1,4 +1,4 @@
-# Clothing-Store-Annual-sales-Dashboard
+# Vrinda-Store-Annual-sales-Dashboard
 ## Introduction to the dataset
 The Vrinda Store dataset captures transactional, customer, and product information for a retail business. This dataset provides a granular view of the store's operations, customer demographics, product trends, and shipping logistics, making it ideal for sales analysis and business performance evaluation. The dataset can be used to derive insights into revenue generation, customer behavior, and geographic demand distribution.
 ### Key components of the dataset
